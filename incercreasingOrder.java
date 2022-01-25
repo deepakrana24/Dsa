@@ -16,7 +16,7 @@ public class incercreasingOrder {
         if (n == 0){
             return ;
         }
-
+    
         printIncreasing(n-1);
         System.out.println(n);
     }
